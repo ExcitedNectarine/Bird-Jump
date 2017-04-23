@@ -1,0 +1,9 @@
+*.vcxproj
+*.log
+Debug/Bird Jump.tlog/Bird Jump.lastbuildstate
+*.filters
+Debug/Bird Jump.tlog/CL.command.1.tlog
+*.tlog
+Debug/vc141.pdb
+*.obj
+Debug/vc141.idb
